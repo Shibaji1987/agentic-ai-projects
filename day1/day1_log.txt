@@ -1,0 +1,19 @@
+Day 1 Log
+
+Built:
+- Created first micro-agent in Python (goal → actions → feedback loop)
+
+Learned:
+- Basic concept of an agent: input → reasoning → action → feedback
+- How to run Python scripts from terminal
+- Git basics: init, add, commit, push
+
+Math:
+- Vector concept
+- Dot product: [2,3] · [4,1] = 11
+
+Blockers:
+- Accidentally tracked virtual environment, fixed using .gitignore
+
+Next:
+- Add memory to agent (store past goals)
